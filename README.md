@@ -1,24 +1,20 @@
-## Need help? Want to chat? Join our Discord
-**Join our Discord:** https://discord.gg/Kej7DEq
 
-# Charlatano
+
+# Csgo aim
 _Cheating is but a lifestyle_
-
-[![Build Status](https://travis-ci.org/Jire/Charlatano.svg?branch=master)](https://travis-ci.org/Jire/Charlatano)
-[![License](https://img.shields.io/github/license/Jire/Charlatano.svg)](https://github.com/Jire/Charlatano/blob/master/LICENSE.txt)
 
 ---
 
-**From the creators of Abendigo** comes a brand new approach to cheating-- _Charlatano_ can be completely
+**From the creators of Abendigo** comes a brand new approach to cheating-- CSGO aim can be completely
 __stream-proof__, hiding the fact that you're cheating while streaming, and completely bypasses SMAC server-sided
 anticheat as well as FaceIT's modified SMAC. Turning off visuals or using a screenshot blocker
 (like hypervisor-powered protection against screenshots in Kaspersky) can potentially allow you to play on leagues
-like ESEA for weeks or months. _Charlatano_ uses strong humanizing settings that bring the public the next step in
+like ESEA for weeks or months. _CSGO Aim_ uses strong humanizing settings that bring the public the next step in
 free and open-source cheating software!
 
 ---
 
-**Available Features**
+**Working Features**
 * Works on Danger Zone (battle royale)
 * Always-on all-weapon smooth dynamic recoil control system
 * Aim bot with humanized aim paths
@@ -38,16 +34,15 @@ free and open-source cheating software!
 Before doing anything, make sure you have
 [Java Development Kit (JDK) 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 or later installed. This is NOT the same thing as the regular Java Runtime (JRE), and you MUST install the JDK
-in order to build Charlatano, as well as any other Java software.
+in order to build CSGO Aim, as well as any other Java software.
 
 The first step is to compile the source code into a usable cheat program.
-
-* Visit our [GitHub repository](https://github.com/Jire/Charlatano)
-* Click on the [**Releases**](https://github.com/Jire/Charlatano/releases) tab
+* Visit our [GitHub Account](https://github.com/tjbrett03/CSGO-Aim)
+* Click on the [**Releases**](https://github.com/Jire/CSGO-Aim/releases) tab
 * Download the latest release ZIP archive
 * Extract the contents from the archive to any folder (to your desktop, for example)
 * Make sure you have Java Development Kit 8 or later installed
-* Double click on the "_build_" (_build.bat_) script and wait for it to complete
+* Double click on the "_build_" (build.bat__) script and wait for it to complete
 
 Once those steps are complete, the usable cheat program can be found within the _build_
 directory, and will in a directory called **Charlatano 1.0.10**.
@@ -57,18 +52,13 @@ the _"Start Charlatano 1.0.10"_ script.
 
 Before starting the cheat, you should already be spawned in a game with a weapon in hand!
 
----
-
-**Beginner's Guide Video**
-
-[![Beginner's Video](http://i.imgur.com/pVLW5Yr.png)](https://www.youtube.com/watch?v=PapjDtR0OMY "Charlatano")
 
 ---
 
 **Copyright** (AGPL-3.0)
 
 ```
-Charlatano: Free and open-source (FOSS) cheat for CS:GO/CS:CO
+CSGO Aim: Free and open-source (FOSS) cheat for CS:GO/CS:CO
 Copyright (C) 2017 - Thomas G. P. Nappo, Jonathan Beaudoin
 
 This program is free software: you can redistribute it and/or modify
@@ -90,5 +80,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 [![YourKit](https://www.yourkit.com/images/yklogo.png)](https://www.yourkit.com/java/profiler/index.jsp)
 
 YourKit supports open source projects with its full-featured Java Profiler.  
-We use YourKit Java Profiler to great extent to ensure the performance characteristics of Charlatano.  
+We use YourKit Java Profiler to great extent to ensure the performance characteristics of CSGO Aim.  
 We highly recommend you check it out, and trial it for yourself! Just click the logo above.
